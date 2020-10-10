@@ -1,0 +1,115 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.border-left{
+    border-left:2px solid black;
+  
+}
+.border-right{
+    border-right: 2px solid black;
+    
+}
+.border-top{
+    border-top: 2px solid black;
+   
+}
+.border-bottom-none{
+    border-bottom: none;
+}
+.border-bottom{
+    border-bottom: 2px solid black;
+    
+}
+.text-left{
+    text-align: left;
+   
+}
+.text-center{
+    text-align: center;
+   
+}
+.text-right{
+    text-align: right;
+}
+
+body{
+    margin: 20px;
+    border: 2px solid black;
+}
+
+.width-4-column td,th{
+    width: 25%;
+}
+
+table,tr{
+    width: 100%;
+}
+
+.nav{
+    display:flex;
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+#float-right{
+    position: absolute;
+    right: 50px;
+
+
+}
+
+.box-addr{
+    display: flex;
+    margin-left: 140px;
+}
+.addr2-box p{
+    font-size: 12px;
+}
+.addr2-box{
+  margin-left: 75px;
+}
+.box-logo2{
+    margin-left: 80px;
+    
+}
+.box-addr h4{
+    width: 90px;
+    margin-top: 20px;
+}
+.heading-red h4{
+    color: darkred;
+    padding-top: 4px;
+}
+
+.box-1 td,th,p{
+    font-size: 15px;
+}
+.font-itelic{
+    font-style: italic;
+}
+
+
+table ,td,th,tr{
+  padding: 2px;
+   border-collapse: collapse;
+}
+.font-15{
+    font-size: 12px;
+}
+.font-red{
+    color: red;
+}
+.border{
+    border: 2px solid black;
+}
+.box-2 .width-2-column td,.box-2 .width-2-column th{
+    width: 50%;
+
+}
+ .box-2 .width-2-column tr{
+    width: 100%;
+}

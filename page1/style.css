@@ -1,0 +1,255 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+body{
+    padding: 50px;
+}
+
+.nav{
+    
+    display: block;
+    padding-top: 10px;
+    border: 2px solid black;
+    border-bottom: none;
+}
+.boxes{
+    display: flex;
+}
+.box{
+    text-align: center;
+    width: 33.33%;
+    
+
+}
+.title{
+    color: white;
+    text-align: center;
+    height: 22px;
+   
+  
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background-color: grey;
+    width: 65%;
+    margin-left: 50px;
+    
+}
+.title h1{
+    font-size: 20px;
+    /* background-color: grey; */
+    padding: 0px;
+    
+    
+}
+.box3{
+    padding: 0px;
+    margin: 0px;
+    margin-left: -40px;
+    width: 40%!important;
+    
+}
+.box3 h2{
+    font-size: 18px;
+    color: red;
+}
+.box3 p{
+    font-size: 12px;
+    
+}
+
+
+table,tr{
+    width:100%;
+}
+.nav table,.nav td,.nav th{
+    border: none;
+}
+
+table,th,td{
+   
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 0px;
+    margin: 0px;
+    text-align: left;
+    /* padding-left: 5px; */
+    
+    
+}
+.nav th{
+    width: 50%;
+}
+
+.grey{
+    color: white;
+    background-color: grey;
+    border-right: none;
+    
+    
+   
+}
+.grey p{
+    font-size: 22px;
+}
+table p{
+    font-size: 20px;
+}
+tr{
+    width: 100%;
+}
+.border-none,.border-none tr,.border-none td{
+    border-top: none;
+    border-bottom: none;
+}
+.width-4-column td,.width-4-column th{
+    width: 25%;
+}
+.width-2-column td,.width-2-column th{
+    width: 50%;
+}
+.grey-col td{
+    border-left: none;
+    
+}
+.no-border,.no-border td,.no-border tr,.no-border table,.no-border th{
+    border: none;
+}
+
+.border-bottom-none{
+    border-bottom: none;
+}
+.border-top-none{
+    border-top: none;
+}
+
+.border-left-none{border-left: none;}
+.border-right-none{
+    border-right: none;
+}
+.border-left{
+    border-left:2px solid black;
+}
+.border-right{
+    border-right: 2px solid black;
+}
+.border-top{
+    border-top: 2px solid black;
+}
+.border-bottom-none{
+    border-bottom: none;
+}
+.border-bottom{
+    border-bottom: 2px solid black;
+}
+
+#newform table,tr,td,th{
+    
+   
+  border: none;
+    
+}
+.padding-2px{
+    padding: 2px;
+}
+.text-center{
+    text-align: center;
+}
+.padding-left-5px{
+    padding-left: 5px;
+}
+.font-small{
+    /* font-size: 12px; */
+}
+.font-small p{
+    font-size: 11px;
+}
+.width-8-column td,th{
+    width: 12.50%;
+}
+
+
+.padding-large{
+    padding: 50px 5px;
+}
+.head-width{
+    width: 60%;
+}
+.head-width2{
+    width: 20%;
+}
+.text-left{
+    text-align: left;
+}
+
+tr span{
+    font-size: 10px;
+}
+
+.width-70{
+    width: 70%;
+}
+.width-30{
+    width: 30%;
+}
+
+.last-box{
+    display: flex;
+    width: 100%;
+    /* border: 2px solid red; */
+}
+
+#last-box>#table1{
+    width: 70%!important;
+
+   
+}
+#last-box>#table2{
+    width: 30%!important;
+
+   
+}
+#last-box .boxes-end{
+    width: 30%;
+  
+}
+table ul{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+table ul li{
+    padding: 5px;
+    font-size: 12px;
+}
+.box-end-1{
+    
+    padding: 40.5px 3px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    
+}
+.padding-10px{
+    padding: 10px;
+}
+.box-end-1 h2{
+    padding: 5px;
+}
+
+#table2{
+    height: 100%;
+    position: relative;
+    
+    /* border: 2px solid red; */
+    /* margin: 40px 0px; */
+}
+
+#table2 tr th{
+    padding: 35px 0px;
+
+}
+
+#table2 tr th h2{
+    font-size: 35px;
+}
+
